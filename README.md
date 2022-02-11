@@ -1,12 +1,16 @@
 # ETF_Analyzer_App
 
-<img width="958" alt="Screenshot 2022-02-10 193143" src="https://user-images.githubusercontent.com/95719899/153529366-ede4de75-9458-4f90-b312-600fa9cb41be.png">
-
 ---
 
 In this exercise, We’ll build a financial database and web application by using SQL and Python. 
 
 Then we'll use the Voilà library to analyze the performance of a hypothetical fintech ETF.
+
+<img width="958" alt="Screenshot 2022-02-10 193143" src="https://user-images.githubusercontent.com/95719899/153529366-ede4de75-9458-4f90-b312-600fa9cb41be.png">
+
+---
+
+
 
 
 ## Technologies
